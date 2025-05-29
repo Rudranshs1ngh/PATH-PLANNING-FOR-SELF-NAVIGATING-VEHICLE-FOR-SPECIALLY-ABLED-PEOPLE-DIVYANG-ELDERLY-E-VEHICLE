@@ -1,11 +1,14 @@
-# PATH PLANNING FOR SELF NAVIGATING VEHICLE FOR SPECIALLY ABLED PEOPLE (DIVYANG)/ELDERLY-E-VEHICLE <img src="https://github.com/user-attachments/assets/19f82c26-9028-43e8-8e55-b94fa266fb06" width="100" height="60"/>
+**# PATH PLANNING FOR SELF NAVIGATING VEHICLE FOR SPECIALLY ABLED PEOPLE (DIVYANG)/ELDERLY-E-VEHICLE** <img src="https://github.com/user-attachments/assets/19f82c26-9028-43e8-8e55-b94fa266fb06" width="130" height="60"/>
 
-
+## 🌟 Project Vision
 This project addresses the growing need for accessible transportation solutions for specially-abled and
 elderly individuals. The focus is on developing a robust path-planning system using the improved A*
 algorithm, a heuristic search algorithm known for its efficiency in finding optimal paths in complex
 environments.
-The project aims to design a system that ensures safe, efficient, and accessible navigation for
+
+## 🌟 Aim
+
+The project aimed to design a system that ensures safe, efficient, and accessible navigation for
 autonomous electric vehicles. By integrating map data and sensor inputs, the system uses a grid-based
 representation to identify start and goal points, dynamically generating optimal and collision-free
 paths. The improved A* algorithm is particularly suited for this application due to its ability to
@@ -19,3 +22,8 @@ includes handling real-time challenges such as moving obstacles and integrating 
 real-world deployment. This project contributes to creating inclusive, autonomous transportation
 solutions, empowering specially-abled and elderly individuals with greater independence and
 mobility.
+
+## 📫 Contact
+
+For inquiries, please reach out to me at 
+-  i.am.rudransh.singh@gmail.com
