@@ -1,4 +1,4 @@
-# PATH PLANNING FOR SELF NAVIGATING VEHICLE FOR SPECIALLY ABLED PEOPLE (DIVYANG)/ELDERLY-E-VEHICLE <img src="https://github.com/user-attachments/assets/19f82c26-9028-43e8-8e55-b94fa266fb06" width="60" height="60"/>
+# PATH PLANNING FOR SELF NAVIGATING VEHICLE FOR SPECIALLY ABLED PEOPLE (DIVYANG)/ELDERLY-E-VEHICLE <img src="https://github.com/user-attachments/assets/19f82c26-9028-43e8-8e55-b94fa266fb06" width="100" height="60"/>
 
 
 This project addresses the growing need for accessible transportation solutions for specially-abled and
